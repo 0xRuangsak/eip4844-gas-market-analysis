@@ -3,7 +3,7 @@
 
 Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
-## 📊 Key Findings
+## Key Findings
 
 - **58.5%** average gas price reduction (33.24 → 13.78 Gwei)
 - **67.5%** median price drop (30.49 → 9.91 Gwei)
@@ -15,7 +15,7 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ---
 
-## 📈 Results
+## Results
 
 ### Price Comparison
 ![Box Plot](graphs/graph1_boxplot_comparison.png)
@@ -32,7 +32,7 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 **Data:** Etherscan historical gas prices (July 2015 - Nov 2024)
 
@@ -44,7 +44,7 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ---
 
-## 📊 Complete Results
+## Complete Results
 
 | Metric              | Before | After  | Change   |
 |---------------------|--------|--------|----------|
@@ -58,7 +58,7 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ---
 
-## 💡 Why Did L1 Prices Drop?
+## Why Did L1 Prices Drop?
 
 **Before EIP-4844:** L2s used calldata → competed with L1 users for block space
 
@@ -68,14 +68,14 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ---
 
-## 📖 Full Article
+## Full Article
 
 Read the complete analysis: [Dev.to Article Link]
 
 
 ---
 
-## 📝 License
+## License
 
 MIT License - see [LICENSE](LICENSE)
 
