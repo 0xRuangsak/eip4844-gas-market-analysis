@@ -1,5 +1,3 @@
-# 📝 CONCISE README.md
-
 ```markdown
 # EIP-4844 Gas Market Impact Analysis
 
