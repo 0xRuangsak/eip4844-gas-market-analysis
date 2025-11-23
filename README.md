@@ -69,7 +69,7 @@ Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
 
 ## Full Article
 
-**[Read on Dev.to →](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)**
+**[Read on Dev.to](https://dev.to/ruangsak_patomwong/how-eip-4844-changed-ethereum-gas-prices-1cip)**
 
 
 ---
