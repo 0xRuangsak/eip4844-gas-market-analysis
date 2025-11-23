@@ -1,4 +1,3 @@
-```markdown
 # EIP-4844 Gas Market Impact Analysis
 
 Empirical analysis of how EIP-4844 affected Ethereum Layer 1 gas prices.
